@@ -88,10 +88,5 @@ const navbar = () =>{
 
 navbar(company = "sachin")
 
-const navbar = () 
 
-{
-    name: "sachin",
-    coursename: "js in hindi",
-    price:"free"
-}
+
